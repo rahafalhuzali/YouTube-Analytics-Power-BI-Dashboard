@@ -43,11 +43,11 @@ The dataset used in this report is sourced from Kaggle: [Global YouTube Statisti
 
 ```
 ├── data/
-│   ├── raw_data.csv        # Original dataset from Kaggle
-│   ├── cleaned_data.xlsx   # Processed and transformed data
+│   ├── Global YouTube Statistics       #dataset from Kaggle
+ 
 │
 ├── visuals/
-│   ├── dashboard_screenshot.png  # Screenshot of the Power BI dashboard
+│   ├── Youtube_Analytics.png  # Screenshot of the Power BI dashboard
 │   ├── charts/                   # Folder for individual chart images
 │
 ├── Youtube_Analytics.pbix   # Power BI project file
